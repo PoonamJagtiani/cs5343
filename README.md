@@ -4,7 +4,7 @@ Please learn C++ and how to do recursion
 =========================
 For these topics, please implement the data structure, add, delete, insert function for each topic.
 -------------------------
-**C++ array**
+**C++ array** \n
 -Array pointer
 -Singly linked list
 -Doubly linked list
