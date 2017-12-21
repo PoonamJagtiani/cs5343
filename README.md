@@ -3,47 +3,47 @@
 Please learn C++ and how to do recursion
 =========================
 For these topics, please implement the data structure, add, delete, insert function for each topic.
--------------------------
-**C++ array** \n
--Array pointer
--Singly linked list
--Doubly linked list
 
--Quick sort
--Bubble sort
--Bucket sort
--Radix sort
--Merge sort
--Insertion sort
+..* **C++ array** 
+..* Array pointer
+..* Singly linked list
+..* Doubly linked list
 
--Tree
--Complete tree
--Full tree
--Binary tree
--AVL Tree
--Red black tree
+..* Quick sort
+..* Bubble sort
+..* Bucket sort
+..* Radix sort
+..* Merge sort
+..* Insertion sort
 
--B-tree
+..* Tree
+..* Complete tree
+..* Full tree
+..* Binary tree
+..* AVL Tree
+..* Red black tree
 
--Heap tree
--Heap array
--Heap sort
+..* B..* tree
 
--Union Find
--Path compression
+..* Heap tree
+..* Heap array
+..* Heap sort
 
--Graph - adjacency matrix
--Graph - adjacency list
--Graph - incident matrix
--Graph MST - Djikstra vs Floyd algo
--Graph shortest path - Kruskal vs Prim's algo
--Graph - Directed Acyclic Graph (DAG)
--DAG - topological order
+..* Union Find
+..* Path compression
 
--Hash table
--Hashing - linear probing
--Hashing - quadratic probing, separate chaining
--Hashing - load factor
--Hashing - rehashing
+..* Graph ..*  adjacency matrix
+..* Graph ..*  adjacency list
+..* Graph ..*  incident matrix
+..* Graph MST ..*  Djikstra vs Floyd algo
+..* Graph shortest path ..*  Kruskal vs Prim's algo
+..* Graph ..*  Directed Acyclic Graph (DAG)
+..* DAG ..*  topological order
+
+..* Hash table
+..* Hashing ..*  linear probing
+..* Hashing ..*  quadratic probing, separate chaining
+..* Hashing ..*  load factor
+..* Hashing ..*  rehashing
 
 
