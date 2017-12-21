@@ -4,46 +4,46 @@ Please learn C++ and how to do recursion
 =========================
 For these topics, please implement the data structure, add, delete, insert function for each topic.
 
-..* **C++ array** 
-..* Array pointer
-..* Singly linked list
-..* Doubly linked list
+<br>**C++ array** 
+<br>Array pointer
+<br>Singly linked list
+<br>Doubly linked list
 
-..* Quick sort
-..* Bubble sort
-..* Bucket sort
-..* Radix sort
-..* Merge sort
-..* Insertion sort
+<br>Quick sort
+<br>Bubble sort
+<br>Bucket sort
+<br>Radix sort
+<br>Merge sort
+<br>Insertion sort
 
-..* Tree
-..* Complete tree
-..* Full tree
-..* Binary tree
-..* AVL Tree
-..* Red black tree
+<br>Tree
+<br>Complete tree
+<br>Full tree
+<br>Binary tree
+<br>AVL Tree
+<br>Red black tree
 
-..* B..* tree
+<br>B-tree
 
-..* Heap tree
-..* Heap array
-..* Heap sort
+<br>Heap tree
+<br>Heap array
+<br>Heap sort
 
-..* Union Find
-..* Path compression
+<br>Union Find
+<br>Path compression
 
-..* Graph ..*  adjacency matrix
-..* Graph ..*  adjacency list
-..* Graph ..*  incident matrix
-..* Graph MST ..*  Djikstra vs Floyd algo
-..* Graph shortest path ..*  Kruskal vs Prim's algo
-..* Graph ..*  Directed Acyclic Graph (DAG)
-..* DAG ..*  topological order
+<br>Graph - adjacency matrix
+<br>Graph - adjacency list
+<br>Graph - incident matrix
+<br>Graph MST - Djikstra vs Floyd algo
+<br>Graph shortest path - Kruskal vs Prim's algo
+<br>Graph - Directed Acyclic Graph (DAG)
+<br>DAG - topological order
 
-..* Hash table
-..* Hashing ..*  linear probing
-..* Hashing ..*  quadratic probing, separate chaining
-..* Hashing ..*  load factor
-..* Hashing ..*  rehashing
+<br>Hash table
+<br>Hashing - linear probing
+<br>Hashing - quadratic probing, separate chaining
+<br>Hashing - load factor
+<br>Hashing - rehashing
 
 
